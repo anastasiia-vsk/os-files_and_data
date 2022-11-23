@@ -1,0 +1,246 @@
+                                  total_cases
+location                                     
+Afghanistan                          199386.0
+Africa                             12358031.0
+Albania                              332285.0
+Algeria                              270679.0
+Andorra                               46227.0
+Angola                               103131.0
+Anguilla                               3865.0
+Antigua and Barbuda                    9098.0
+Argentina                           9711355.0
+Armenia                              442875.0
+Aruba                                 42970.0
+Asia                              185442643.0
+Australia                          10241739.0
+Austria                             5154447.0
+Azerbaijan                           821635.0
+Bahamas                               37309.0
+Bahrain                              681210.0
+Bangladesh                          2026212.0
+Barbados                             102580.0
+Belarus                              994037.0
+Belgium                             4544505.0
+Belize                                68854.0
+Benin                                 27638.0
+Bermuda                               18154.0
+Bhutan                                61969.0
+Bolivia                             1108347.0
+Bonaire Sint Eustatius and Saba       11345.0
+Bosnia and Herzegovina               398750.0
+Botswana                             326308.0
+Brazil                             34672524.0
+British Virgin Islands                 7305.0
+Brunei                               227756.0
+Bulgaria                            1259948.0
+Burkina Faso                          21631.0
+Burundi                               50193.0
+Cambodia                             137885.0
+Cameroon                             121652.0
+Canada                              4280759.0
+Cape Verde                            62376.0
+Cayman Islands                        30661.0
+Central African Republic              14913.0
+Chad                                   7583.0
+Chile                               4630935.0
+China                                992802.0
+Colombia                            6307372.0
+Comoros                                8471.0
+Congo                                 24837.0
+Cook Islands                           6389.0
+Costa Rica                          1117989.0
+Cote d'Ivoire                         87282.0
+Croatia                             1233728.0
+Cuba                                1111200.0
+Curacao                               45368.0
+Cyprus                               587994.0
+Czechia                             4109072.0
+Democratic Republic of Congo          92893.0
+Denmark                             3299534.0
+Djibouti                              15690.0
+Dominica                              15747.0
+Dominican Republic                   645952.0
+Ecuador                             1005521.0
+Egypt                                515645.0
+El Salvador                          201785.0
+Equatorial Guinea                     17012.0
+Eritrea                               10170.0
+Estonia                              601993.0
+Eswatini                              73390.0
+Ethiopia                             493588.0
+Europe                            229486627.0
+European Union                    168046480.0
+Faeroe Islands                        34658.0
+Falkland Islands                       1930.0
+Fiji                                  68242.0
+Finland                             1292940.0
+France                             35453449.0
+French Polynesia                      76599.0
+Gabon                                 48713.0
+Gambia                                12508.0
+Georgia                             1780691.0
+Germany                            33386229.0
+Ghana                                169385.0
+Gibraltar                             20095.0
+Greece                              4920192.0
+Greenland                             11971.0
+Grenada                               19536.0
+Guam                                      0.0
+Guatemala                           1125205.0
+Guernsey                                  0.0
+Guinea                                37652.0
+Guinea-Bissau                          8796.0
+Guyana                                71349.0
+Haiti                                 33756.0
+High income                       381584663.0
+Honduras                             456391.0
+Hong Kong                           1772880.0
+Hungary                             2094142.0
+Iceland                              205637.0
+India                              44597498.0
+Indonesia                           6434585.0
+International                           721.0
+Iran                                7549586.0
+Iraq                                2459982.0
+Ireland                             1663653.0
+Isle of Man                           38008.0
+Israel                              4663506.0
+Italy                              22529252.0
+Jamaica                              151931.0
+Japan                              21147468.0
+Jersey                                    0.0
+Jordan                              1746997.0
+Kazakhstan                          1483609.0
+Kenya                                338445.0
+Kiribati                               3430.0
+Kosovo                               272078.0
+Kuwait                               658520.0
+Kyrgyzstan                           206083.0
+Laos                                 215880.0
+Latvia                               930254.0
+Lebanon                             1216025.0
+Lesotho                               34490.0
+Liberia                                7961.0
+Libya                                507004.0
+Liechtenstein                         19713.0
+Lithuania                           1251328.0
+Low income                          2244239.0
+Lower middle income                96103250.0
+Luxembourg                           291758.0
+Macao                                   793.0
+Madagascar                            66684.0
+Malawi                                88029.0
+Malaysia                            4845757.0
+Maldives                             185042.0
+Mali                                  32683.0
+Malta                                114719.0
+Marshall Islands                      15305.0
+Mauritania                            62826.0
+Mauritius                            262648.0
+Mexico                              7090330.0
+Micronesia (country)                  10814.0
+Moldova                              589437.0
+Monaco                                14622.0
+Mongolia                             982864.0
+Montenegro                           280488.0
+Montserrat                             1403.0
+Morocco                             1264972.0
+Mozambique                           230312.0
+Myanmar                              622802.0
+Namibia                              169253.0
+Nauru                                  4611.0
+Nepal                                999759.0
+Netherlands                         8441602.0
+New Caledonia                         74288.0
+New Zealand                         1789505.0
+Nicaragua                             15070.0
+Niger                                  9405.0
+Nigeria                              265431.0
+Niue                                      0.0
+North America                     114279434.0
+North Korea                               1.0
+North Macedonia                      342961.0
+Northern Cyprus                           0.0
+Northern Mariana Islands                  0.0
+Norway                              1462456.0
+Oceania                            12407777.0
+Oman                                 398424.0
+Pakistan                            1572598.0
+Palau                                  5460.0
+Palestine                            702768.0
+Panama                               986866.0
+Papua New Guinea                      44997.0
+Paraguay                             716543.0
+Peru                                4145301.0
+Philippines                         3953886.0
+Pitcairn                                  0.0
+Poland                              6297431.0
+Portugal                            5493540.0
+Puerto Rico                               0.0
+Qatar                                452533.0
+Romania                             3269941.0
+Russia                             20747599.0
+Rwanda                               132521.0
+Saint Helena                           1656.0
+Saint Kitts and Nevis                  6544.0
+Saint Lucia                           29408.0
+Saint Pierre and Miquelon              3188.0
+Saint Vincent and the Grenadines       9448.0
+Samoa                                 15941.0
+San Marino                            20793.0
+Sao Tome and Principe                  6230.0
+Saudi Arabia                         816664.0
+Senegal                               88398.0
+Serbia                              2364814.0
+Seychelles                            47141.0
+Sierra Leone                           7751.0
+Singapore                           1914280.0
+Sint Maarten (Dutch part)                 0.0
+Slovakia                            2626595.0
+Slovenia                            1186809.0
+Solomon Islands                       21544.0
+Somalia                               27214.0
+South Africa                        4019077.0
+South America                      63982579.0
+South Korea                        24831761.0
+South Sudan                           17823.0
+Spain                              13422984.0
+Sri Lanka                            670790.0
+Sudan                                 63285.0
+Suriname                              81106.0
+Sweden                              2588441.0
+Switzerland                         4103959.0
+Syria                                 57309.0
+Taiwan                              6547708.0
+Tajikistan                            17786.0
+Tanzania                              39440.0
+Thailand                            4682132.0
+Timor                                 23257.0
+Togo                                  39086.0
+Tokelau                                   0.0
+Tonga                                 16182.0
+Trinidad and Tobago                  183181.0
+Tunisia                             1145686.0
+Turkey                             16873793.0
+Turkmenistan                              0.0
+Turks and Caicos Islands               6380.0
+Tuvalu                                   20.0
+Uganda                               169396.0
+Ukraine                             5478645.0
+United Arab Emirates                1028333.0
+United Kingdom                     23672856.0
+United States                      96397885.0
+United States Virgin Islands              0.0
+Upper middle income               137994373.0
+Uruguay                              985422.0
+Uzbekistan                           244218.0
+Vanuatu                               11950.0
+Vatican                                  29.0
+Venezuela                            544874.0
+Vietnam                            11480518.0
+Wallis and Futuna                       761.0
+Western Sahara                            0.0
+World                             617957812.0
+Yemen                                 11935.0
+Zambia                               333549.0
+Zimbabwe                             257517.0
