@@ -1,0 +1,15 @@
+                total_cases
+location                   
+Afghanistan        199386.0
+Africa           12358031.0
+Albania            332285.0
+Algeria            270679.0
+Andorra             46227.0
+...                     ...
+Western Sahara          NaN
+World           617957812.0
+Yemen               11935.0
+Zambia             333549.0
+Zimbabwe           257517.0
+
+[244 rows x 1 columns]
